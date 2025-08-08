@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Jessica Dai
+TITLE:行銷專員
+ORG:茂綸股份有限公司
+TEL;TYPE=WORK,VOICE:+886-9xx-xxx-xxx
+EMAIL:jessica@example.com
+URL:https://<你的 GitHub 帳號>.github.io/my-nfc-card/
+PHOTO;VALUE=URI:https://<你的 GitHub 帳號>.github.io/my-nfc-card/photo.jpg
+END:VCARD
